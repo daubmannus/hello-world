@@ -1,2 +1,2 @@
 # hello-world
-Here is description. It is very descriptive.
+Here is description. It is NOT very descriptive.
