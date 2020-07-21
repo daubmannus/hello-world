@@ -8,3 +8,7 @@ git remote show <remote (e.g. origin)>
 git remote rename <shortname> <new>
 git remote rm <shortname>
 
+========================================
+git tag [-l <template>]
+
+
