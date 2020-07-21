@@ -3,4 +3,5 @@ git remote add <shortname> <url>
 
 git push <remote-name> <branch-name>
 
+git remote show <remote (e.g. origin)>
 
